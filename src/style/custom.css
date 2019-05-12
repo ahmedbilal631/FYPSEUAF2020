@@ -1,0 +1,25 @@
+.myHeaderContent {
+  margin-top: 0%;
+  font-weight: bold;
+}
+.myHeaderBody {
+  background-image: url("../images/myHeaderXi.jpg");
+  /* background-color: black; */
+}
+.myNavCss {
+  padding: 1%;
+}
+.cardClass {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 10rem;
+}
+.cusBtn {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.navBtn:hover {
+  background-color: white;
+  color: blue;
+  font-weight: 600;
+}
